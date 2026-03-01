@@ -53,7 +53,7 @@ Gadget Beta created
 Gadget Beta destroyed
 Gadget Alpha destroyed
 Gadget Default destroyed
-yes the outpit matched with the expected output
+yes the output matched with the expected output
 
 task 2
  Why destructors follow LIFO:
